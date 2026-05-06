@@ -12,7 +12,11 @@ h1,h2,h3,h4{
 
 }
 #lara{
-    background-color: src="images.png" alt="foto de unos cubos de rubik";
+  background-image: url('images.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 #sobre_mi{
     background-color: chartreuse;
