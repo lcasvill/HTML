@@ -33,3 +33,12 @@ h1,h2,h3,h4{
 #practicas{
     background-color: indianred;
 }
+#contactar{
+    background-color:cornflowerblue;
+}
+.itemform{
+    display: grid;
+    grid-template-columns: 150px 50px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
