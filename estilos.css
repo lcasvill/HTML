@@ -23,7 +23,10 @@ h1,h2,h3,h4{
 }
 #portfolio{
     background-color: aqua;
+    display: grid;
+    grid-template-columns: 100px 900px;
     justify-content: center;
+    margin-bottom: 20px;
 }
 #skills{
     background-color: coral;
