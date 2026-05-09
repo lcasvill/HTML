@@ -26,7 +26,8 @@ h1,h2,h3,h4{
     display: grid;
     grid-template-columns: 100px 900px;
     justify-content: center;
-    margin-bottom: 20px;
+    margin-bottom: auto;
+    margin-top: auto;
 }
 #skills{
     background-color: coral;
