@@ -23,16 +23,6 @@ h1,h2,h3,h4{
 }
 #portfolio{
     background-color: aqua;
-    display: grid;
-    grid-template-columns: 100px 900px;
-    justify-content: center;
-    margin-bottom: auto;
-    margin-top: auto;
-}
-#tabla{
-    display: grid;
-    grid-template-columns: 50px 100px;
-    justify-content: center;
 }
 #skills{
     background-color: coral;
