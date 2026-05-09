@@ -29,6 +29,11 @@ h1,h2,h3,h4{
     margin-bottom: auto;
     margin-top: auto;
 }
+#tabla{
+    display: grid;
+    grid-template-columns: 50px 100px;
+    justify-content: center;
+}
 #skills{
     background-color: coral;
 }
